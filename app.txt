@@ -13,4 +13,8 @@ api integration code
 app integration
 app2 integration
  master
+<<<<<<< HEAD
 Change made locally
+=======
+Change made directly on GitHub
+>>>>>>> 487cc81508f66b8560a9ccf69c839c48938b023e
