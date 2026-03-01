@@ -1,4 +1,15 @@
 version1
+ HEAD
+hotfix security patch
 login code line1
+ feature-login
 hello
 hello gitlab
+login code line 2
+feature-login
+temporary debug code
+minor improvemenr
+api integration code
+app integration
+app2 integration
+ master
